@@ -1,3 +1,3 @@
-I done HTML.
+I done HTML and CSS.
 I USED NOTEPAD.
 I AM SAVING THE TEXT.
